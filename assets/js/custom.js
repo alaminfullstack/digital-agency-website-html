@@ -1,6 +1,6 @@
 /*=========
 
-Template Name: Morbizz - Template Name: Shivka - Personal Portfolio HTML Template
+Template Name: Gemamin - Personal Portfolio Template
 
 =========*/
 
